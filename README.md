@@ -16,6 +16,7 @@ Example 1
 Пожалуйста, введите число обитателя, которого вы хотите видеть: 3
 
 Switching on the camera in the goose habitat...
+<pre class="nocode">
 
                                     _
                                 ,-"" "".
@@ -28,10 +29,12 @@ Switching on the camera in the goose habitat...
   <`-       (__< <           :
    (__        (_<_<          ;
     `------------------------------------------
+    </pre>
 The goose is staring intently at you... Maybe it's time to change the channel?
 Пожалуйста, введите число обитателя, которого вы хотите видеть: 1
 
 Switching on the camera in the lion habitat...
+<pre class="nocode">
                                                ,w.
                                              ,YWMMw  ,M  ,
                         _.---.._   __..---._.'MMMMMw,wMWmW,
@@ -46,6 +49,7 @@ WMMm__,-'.'     /      _.\      F'''-+,,   ;_,_.dMMMMMMMM[,_ / `=_}
           /  .'             /  (       .'  /     Ww._     `.  `"
          /  Y,              `,  `-,=,_{   ;      MMMP`""-,  `-._.-,
         (--, )                `,_ / `) \/"")      ^"      `-, -;"\:
+        </pre>
 The lion is roaring!
 Пожалуйста, введите число обитателя, которого вы хотите видеть: exit
 Увидимся позже!
